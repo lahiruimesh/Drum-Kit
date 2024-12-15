@@ -1,0 +1,41 @@
+.button{
+    width: 120px;
+    height: 120px;
+    margin: 20px;
+    font-size: 20px;
+}
+
+h1{
+    text-align: center;
+    color: #000000;
+    
+}
+
+.drum-pads{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.a{
+    background-color: aqua;
+}
+.s{
+    background-color: red;
+}
+.d{
+    background-color: green;
+}
+.f{
+    background-color: blueviolet;
+}
+.j{
+    background-color: yellow;
+}
+.k{
+    background-color: rgb(190, 141, 7);
+}
+.l{
+    background-color: rgb(216, 17, 166);
+}
